@@ -11,5 +11,4 @@ Please solve it without the built-in Array.map method.
         result.push(fn(arr[i], i));
     };
     return result;
-    
 };
